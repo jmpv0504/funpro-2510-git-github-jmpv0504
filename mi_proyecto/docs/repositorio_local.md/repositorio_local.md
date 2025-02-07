@@ -13,3 +13,7 @@ El archivo .gitignore es un archivo de texto que se utiliza para especificar qu�
 Archivos temporales generados por editores.
 Archivos de configuración local que contienen información sensible (contraseñas, claves, etc.).
 Archivos grandes de datos que no son relevantes para el código fuente.
+![imagen1](../imagenes/imagen1.png)
+
+
+
