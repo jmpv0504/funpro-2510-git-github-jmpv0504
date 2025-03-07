@@ -1,3 +1,3 @@
 # Bitácora
-Nombre del estudiante: Juan Mnauel Pineda Vélez 
+Nombre del estudiante: Juan Manuel Pineda Vélez 
 Id.: 000487065
